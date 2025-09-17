@@ -14,6 +14,9 @@ The website showcases information about me, my skills, and some of the projects 
  - Main
  - About Me
  - Projects
+  
+## Design 
+- figma: <https://www.figma.com/design/gaErGncrjQCZI4XtAu7ye6/ahmaddaneshs.com?node-id=0-1&t=tCFXxCVwrUucGPfy-1>
 
 *"Do not lose hope, nor be sad. You will surely be victorious if you are true believers."*
 
