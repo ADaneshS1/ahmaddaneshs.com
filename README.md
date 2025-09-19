@@ -1,8 +1,7 @@
-# 🌐 Personal Website
+# 🌐 ahmaddaneshsudiono.com
 
-Hi, this is my personal website of Ahmad Danesh Sudiono.
-
-The website showcases information about me, my skills, and some of the projects I’ve worked on.
+Hi, and welcome to my personal website. My name is Ahmad Danesh Sudiono. I'm From South Tangerang a city in Indonesia. I'm a beginner in web development, but i like to explore and learn more from others. And this is where i share my journey, practice projects, and small experiments as i grow my skills.
+Thank you
 
 ## 📬 Contact
 
