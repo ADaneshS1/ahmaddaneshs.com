@@ -11,7 +11,7 @@ Thank you
 ## 📂 Pages
 
 - Main
-- About Me
+- About
 - Projects
 
 ## Design
